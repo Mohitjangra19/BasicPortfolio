@@ -38,7 +38,7 @@ No special setup is required to view this project. You can run it locally by fol
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mohitjangra19/BasicPortfolio.git]
+    git clone https://github.com/Mohitjangra19/BasicPortfolio.git
     ```
 
 2.  **Navigate to the project directory:**
